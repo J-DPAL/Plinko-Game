@@ -89,7 +89,6 @@ For a full per-file analysis of the `.cs` files in the project, see the `plinko_
 * Unity Engine (C#) — MonoBehaviour scripts
 * TextMesh Pro — UI text rendering
 * Unity 2D Physics (Physics2D)
-* Universal Render Pipeline (URP) — project assets indicate URP use
 
 ---
 
